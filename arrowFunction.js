@@ -1,20 +1,20 @@
-// const text = () => console.log("hello empty");
+const text = () => console.log("hello empty");
 // text()
 
 
 
-// const squre = x => x * x; 
+const squre = x => x * x; 
 // console.log(squre(20))
 
 
 
 
-// const Squre = y => {
-//     return y * y;
-// }
+const Squre = y => {
+    return y * y;
+}
 // console.log(Squre (10));
 
 
-// document.getElementById("title").addEventListener("click",() => {
+document.getElementById("title").addEventListener("click",() => {
 //    console.log("hello")
-// })
+})

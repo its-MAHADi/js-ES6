@@ -8,5 +8,5 @@ const newArray = [...Friends,"mahadi"]
 
 
 const numbers = [5,10,15,20,35,67,88,99,123,444,555,666,667];
-console.log(Math.max(...numbers))    //output : NaN  (Not a number)  
+// console.log(Math.max(...numbers))    //output : NaN  (Not a number)  
 // erpor spread (...) deoyar por...output : 667 big number
